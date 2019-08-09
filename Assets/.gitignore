@@ -1,0 +1,19 @@
+*.meta
+_settings/
+Animations/
+AssetStoreOriginals/
+Crazy Minnow Studio/
+Data/
+Editor Default Resources/
+K2Examples/
+LIFE_Conversations/
+Models/
+o3n/
+Oculus/
+Plugins/
+Prefabs/
+Raw Mocap Data/
+Scenes/
+UMA/
+UMotion Examples/
+UMotions/

@@ -46,3 +46,18 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+
+*.dll
+*.meta
+*.ini
+*.data
+Library/
+Logs/
+NuiDatabase/
+obj/
+OpenNI2/
+Packages/
+Temp/
+UMotionData/
+vgbtechs/
